@@ -1,0 +1,22 @@
+Proyceto
+https://www.youtube.com/watch?v=jGBE75m6YOE
+------------------------------
+
+iconos
+https://react-icons.github.io/react-icons/
+install:
+npm install react-icons --save
+
+https://tailwindcss.com/docs/installation
+
+npm install -D tailwindcss
+npx tailwindcss init
+-----------------
+
+
+
+
+token
+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
+
+42:00
