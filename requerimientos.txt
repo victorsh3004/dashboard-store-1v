@@ -1,5 +1,4 @@
-Proyceto
-https://www.youtube.com/watch?v=jGBE75m6YOE
+Proyc2o3https://www.youtube.com/watch?v=jGBE75m6YOE
 ------------------------------
 
 iconos
@@ -19,4 +18,4 @@ npx tailwindcss init
 token
 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
 
-42:00
+2:30
