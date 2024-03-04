@@ -26,7 +26,7 @@ const Card = (props) => {
                         <h5>Price</h5>
                     </div>
                     {/*Products */}
-                    <div className="bg-red-400 h-[400px] md:h-[700]px lg-h[540px] overflow-y-auto">
+                    <div className="h-[400px] md:h-[700]px lg-h[540px] overflow-y-auto">
                         {/*Product */}
                         <div className="bg-[#262837] p-4 rounded-xl mb-4">
                             <div className="grid grid-cols-6 mb-2">

@@ -53,65 +53,26 @@ function App() {
         <div className="p-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16">
           {/*Card */}
           <Card img="comida.png" description="Specy seasoned seafood nodles" price="$2.29" inventory="20 Bowls available"/>
-          <div className="bg-[#1F1D2B] p-8 rounded-xl flex flex-col items-center gap-2 text-center text-gray-300">
-            <img 
-              src="comida.png" 
-              className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
-            
-            <p className="text-xl">Specy seasoned seafood nodles</p>
-            <span className="text-gray-400">$2.29</span>
-            <p className="text-gray-600">20 Bowls available</p>
-          </div>
           {/*Card */}
-          <div className="bg-[#1F1D2B] p-8 rounded-xl flex flex-col items-center gap-2 text-center text-gray-300">
-            <img 
-              src="comida.png" 
-              className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
-            
-            <p className="text-xl">Specy seasoned seafood nodles</p>
-            <span className="text-gray-400">$2.29</span>
-            <p className="text-gray-600">20 Bowls available</p>
-          </div>
+          <Card img="comida.png" description="Specy seasoned seafood nodles" price="$2.29" inventory="20 Bowls available"/>
           {/*Card */}
-          <div className="bg-[#1F1D2B] p-8 rounded-xl flex flex-col items-center gap-2 text-center text-gray-300">
-            <img 
-              src="comida.png" 
-              className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
-            
-            <p className="text-xl">Specy seasoned seafood nodles</p>
-            <span className="text-gray-400">$2.29</span>
-            <p className="text-gray-600">20 Bowls available</p>
-          </div>
+          <Card img="comida.png" description="Specy seasoned seafood nodles" price="$2.29" inventory="20 Bowls available"/>
           {/*Card */}
-          <div className="bg-[#1F1D2B] p-8 rounded-xl flex flex-col items-center gap-2 text-center text-gray-300">
-            <img 
-              src="comida.png" 
-              className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
-            
-            <p className="text-xl">Specy seasoned seafood nodles</p>
-            <span className="text-gray-400">$2.29</span>
-            <p className="text-gray-600">20 Bowls available</p>
-          </div>
+          <Card img="comida.png" description="Specy seasoned seafood nodles" price="$2.29" inventory="20 Bowls available"/>
           {/*Card */}
-          <div className="bg-[#1F1D2B] p-8 rounded-xl flex flex-col items-center gap-2 text-center text-gray-300">
-            <img 
-              src="comida.png" 
-              className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
-            
-            <p className="text-xl">Specy seasoned seafood nodles</p>
-            <span className="text-gray-400">$2.29</span>
-            <p className="text-gray-600">20 Bowls available</p>
-          </div>
+          <Card img="comida.png" description="Specy seasoned seafood nodles" price="$2.29" inventory="20 Bowls available"/>
           {/*Card */}
-          <div className="bg-[#1F1D2B] p-8 rounded-xl flex flex-col items-center gap-2 text-center text-gray-300">
-            <img 
-              src="comida.png" 
-              className="w-40 h-40 object-cover -mt-20 shadow-2xl rounded-full" />
-            
-            <p className="text-xl">Specy seasoned seafood nodles</p>
-            <span className="text-gray-400">$2.29</span>
-            <p className="text-gray-600">20 Bowls available</p>
-          </div>
+          <Card img="comida.png" description="Specy seasoned seafood nodles" price="$2.29" inventory="20 Bowls available"/>
+          {/*Card */}
+          <Card img="comida.png" description="Specy seasoned seafood nodles" price="$2.29" inventory="20 Bowls available"/>
+          {/*Card */}
+          <Card img="comida.png" description="Specy seasoned seafood nodles" price="$2.29" inventory="20 Bowls available"/>
+          {/*Card */}
+          <Card img="comida.png" description="Specy seasoned seafood nodles" price="$2.29" inventory="20 Bowls available"/>
+          {/*Card */}
+          <Card img="comida.png" description="Specy seasoned seafood nodles" price="$2.29" inventory="20 Bowls available"/>
+          {/*Card */}
+          <Card img="comida.png" description="Specy seasoned seafood nodles" price="$2.29" inventory="20 Bowls available"/>
         </div>
       </div>
       
